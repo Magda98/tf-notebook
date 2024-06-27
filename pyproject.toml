@@ -6,6 +6,7 @@ python = "^3.10"
 tensorflow = "^2.16.1"
 ipython = "^8.25.0"
 ipykernel = "^6.29.4"
+pandas = "^2.2.2"
 
 
 [build-system]
